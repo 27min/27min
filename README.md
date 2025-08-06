@@ -14,7 +14,7 @@
 
 소속: 한국IT교육원 / 스터디 및 동호회
 
-기술 스택: Spring Boot, JSP, JPA, MySQL
+기술 스택: Spring Boot, Thymeleaf, JPA, MySQL
 
 프로젝트 개요
 - 유튜브 영상을 기반으로 강의를 등록하고 수강할 수 있는 학습 관리 시스템.
@@ -31,7 +31,7 @@
 
 소속: 한국IT교육원 / 스터디 및 동호회
 
-기술 스택: Spring Boot, JPA, Oracle, JSP
+기술 스택: Spring Boot, Thymeleaf, Oracle, JSP
 
 프로젝트 개요
 - 2024 대구 ICT 발표회 ‘잡 크래프트’ 제출 프로젝트.
